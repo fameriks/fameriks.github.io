@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fameriks.github.io/",
+  "homepage": "https://fameriks.github.io/learning-resources",
   "dependencies": {
     "@types/jest": "24.0.23",
     "@types/node": "12.12.14",
